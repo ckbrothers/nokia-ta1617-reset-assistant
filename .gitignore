@@ -1,0 +1,8 @@
+.downloads/
+spd_dump64/
+unisoc-driver/
+运行日志/
+*.response.bin
+*.partial
+*.zip
+*.7z
